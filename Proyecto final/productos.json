@@ -1,0 +1,20 @@
+[
+    {
+      "name": "Clase individual",
+      "description": "Ideal para principiantes o avanzados que buscan progreso personalizado.",
+      "price": 25000,
+      "img": "./imagenes/clases online.jpg"
+    },
+    {
+      "name": "Armonía Aplicada",
+      "description": "8 clases con seguimiento y material exclusivo descargable.",
+      "price": 80000,
+      "img": "./imagenes/ArmoniaParaTodos_TAPA.jpg"
+    },
+    {
+      "name": "Clase grupal",
+      "description": "Ambiente dinámico y motivador. Cupos reducidos.",
+      "price": 10000,
+      "img": "./imagenes/clases presenciales.jpg"
+    }
+  ]
